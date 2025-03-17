@@ -1,0 +1,15 @@
+
+pandas
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+dvc
+joblib
+types-PyYAML
+dvclive>=2.0
+scipy
+-e .
